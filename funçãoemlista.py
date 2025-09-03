@@ -9,7 +9,7 @@ for x in sonhos:
     print (x)
     
     print (" Ops, não quero sepetiba!")
-    del(sonhos [2])
+    del(sonhos [0])
     print(" E nem West Shopping...")
     del(sonhos[2])
     
